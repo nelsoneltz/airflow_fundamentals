@@ -1,6 +1,6 @@
 # 01 - Installing and Running
 
-Para instalação eu usei o método "winget" do Windows.
+Para instalação eu usei o método "winget" do Windows. Os demais métodos de instalação estão [aqui](https://docs.astronomer.io/astro/cli/install-cli?tab=windows#install-the-astro-cli)
 
 1. Com um Windows PowerShell aberto com modo admnistrador, execute o comando:
 

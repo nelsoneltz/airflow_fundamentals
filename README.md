@@ -11,7 +11,7 @@ Estrutura do repositório:
 Tópicos:
 
 1. Installing and running
-2. Essentials concepts
+2. Essentials
 3. Interacting with Airflow
 4. Dags and Tasks
 5. Executors
