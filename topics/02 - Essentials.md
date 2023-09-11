@@ -32,3 +32,5 @@ Single Node:
 4. No final da tarefa, o Executo interage com a Metastore alterando o status.
 
 Multi Nodes:
+
+![Multi Node](../images/multi_node.png)
